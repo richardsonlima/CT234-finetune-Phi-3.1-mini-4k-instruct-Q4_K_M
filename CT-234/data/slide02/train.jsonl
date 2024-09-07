@@ -1,0 +1,89 @@
+{
+    "prompt": "What is mathematical induction?",
+    "completion": "Mathematical induction is a proof technique used to prove that a statement holds for all natural numbers by proving it for a base case and then showing that if it holds for an arbitrary case, it also holds for the next case."
+  }
+  {
+    "prompt": "O que é indução matemática?",
+    "completion": "A indução matemática é uma técnica de prova usada para provar que uma afirmação é verdadeira para todos os números naturais, provando-a para um caso base e depois mostrando que, se for verdadeira para um caso arbitrário, também será verdadeira para o próximo caso."
+  }
+  {
+    "prompt": "What are the steps of mathematical induction?",
+    "completion": "The steps are: 1. Base case: Prove the statement for the smallest value (usually n = 0 or n = 1). 2. Inductive hypothesis: Assume the statement holds for n = k. 3. Inductive step: Prove the statement holds for n = k + 1."
+  }
+  {
+    "prompt": "Quais são os passos da indução matemática?",
+    "completion": "Os passos são: 1. Caso base: Prove a afirmação para o menor valor (geralmente n = 0 ou n = 1). 2. Hipótese indutiva: Suponha que a afirmação seja verdadeira para n = k. 3. Passo indutivo: Prove que a afirmação é verdadeira para n = k + 1."
+  }
+  {
+    "prompt": "What is recursion in computer science?",
+    "completion": "Recursion is a technique where a function calls itself to solve smaller instances of a problem until reaching a base case."
+  }
+  {
+    "prompt": "O que é recursão em ciência da computação?",
+    "completion": "Recursão é uma técnica onde uma função chama a si mesma para resolver instâncias menores de um problema até atingir um caso base."
+  }
+  {
+    "prompt": "What is an example of a recursive algorithm in the document?",
+    "completion": "An example is the recursive algorithm for calculating the factorial of a number: n! = n × (n-1)!"
+  }
+  {
+    "prompt": "Qual é um exemplo de algoritmo recursivo no documento?",
+    "completion": "Um exemplo é o algoritmo recursivo para calcular o fatorial de um número: n! = n × (n-1)!"
+  }
+  {
+    "prompt": "What is the time complexity of the recursive factorial algorithm?",
+    "completion": "The time complexity of the recursive factorial algorithm is Θ(n)."
+  }
+  {
+    "prompt": "Qual é a complexidade de tempo do algoritmo recursivo de fatorial?",
+    "completion": "A complexidade de tempo do algoritmo recursivo de fatorial é Θ(n)."
+  }
+  {
+    "prompt": "What is a stack used for in recursion?",
+    "completion": "A stack is used to store the state of each function call, including parameters and return addresses, so that the program can resume correctly after each recursive call."
+  }
+  {
+    "prompt": "Para que é usada uma pilha em recursão?",
+    "completion": "Uma pilha é usada para armazenar o estado de cada chamada de função, incluindo parâmetros e endereços de retorno, para que o programa possa retomar corretamente após cada chamada recursiva."
+  }
+  {
+    "prompt": "What is an iterative version of the factorial algorithm?",
+    "completion": "The iterative version uses a loop to calculate the factorial by multiplying a variable by decreasing values of n until n = 0."
+  }
+  {
+    "prompt": "Qual é a versão iterativa do algoritmo de fatorial?",
+    "completion": "A versão iterativa usa um loop para calcular o fatorial multiplicando uma variável pelos valores decrescentes de n até n = 0."
+  }
+  {
+    "prompt": "What is the Tower of Hanoi problem?",
+    "completion": "The Tower of Hanoi is a classic problem where n disks need to be moved from one peg to another, using a third peg as an auxiliary, without placing a larger disk on a smaller one."
+  }
+  {
+    "prompt": "O que é o problema da Torre de Hanói?",
+    "completion": "A Torre de Hanói é um problema clássico onde n discos precisam ser movidos de uma estaca para outra, usando uma terceira estaca como auxiliar, sem colocar um disco maior sobre um menor."
+  }
+  {
+    "prompt": "What is the time complexity of the Tower of Hanoi problem?",
+    "completion": "The time complexity is T(n) = 2T(n-1) + a, which grows exponentially as Θ(2^n)."
+  }
+  {
+    "prompt": "Qual é a complexidade de tempo do problema da Torre de Hanói?",
+    "completion": "A complexidade de tempo é T(n) = 2T(n-1) + a, que cresce exponencialmente como Θ(2^n)."
+  }
+  {
+    "prompt": "What is a recurrence relation?",
+    "completion": "A recurrence relation is an equation that describes a function in terms of its values at smaller inputs."
+  }
+  {
+    "prompt": "O que é uma relação de recorrência?",
+    "completion": "Uma relação de recorrência é uma equação que descreve uma função em termos de seus valores para entradas menores."
+  }
+  {
+    "prompt": "What is the purpose of a base case in recursion?",
+    "completion": "The base case is the simplest instance of the problem that can be solved directly, preventing infinite recursion by providing a termination point."
+  }
+  {
+    "prompt": "Qual é o propósito de um caso base em recursão?",
+    "completion": "O caso base é a instância mais simples do problema que pode ser resolvida diretamente, prevenindo a recursão infinita ao fornecer um ponto de terminação."
+  }
+  

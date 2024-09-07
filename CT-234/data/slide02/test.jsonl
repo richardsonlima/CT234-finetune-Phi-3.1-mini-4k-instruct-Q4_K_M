@@ -1,0 +1,25 @@
+{
+    "prompt": "What is the space complexity of recursive algorithms?",
+    "completion": "The space complexity is usually O(n), where n is the depth of the recursive calls."
+  }
+  {
+    "prompt": "Qual é a complexidade de espaço dos algoritmos recursivos?",
+    "completion": "A complexidade de espaço geralmente é O(n), onde n é a profundidade das chamadas recursivas."
+  }
+  {
+    "prompt": "Why might recursion be more readable than iteration?",
+    "completion": "Recursion can be more readable because it often directly mirrors the problem’s structure, making it easier to understand and implement for problems like tree traversal."
+  }
+  {
+    "prompt": "Por que a recursão pode ser mais legível do que a iteração?",
+    "completion": "A recursão pode ser mais legível porque frequentemente reflete diretamente a estrutura do problema, tornando mais fácil entender e implementar para problemas como a travessia de árvores."
+  }
+  {
+    "prompt": "What is a recurrence tree?",
+    "completion": "A recurrence tree is a tool used to solve recurrence relations by visualizing how the cost of recursive calls accumulates across the levels of recursion."
+  }
+  {
+    "prompt": "O que é uma árvore de recorrência?",
+    "completion": "Uma árvore de recorrência é uma ferramenta usada para resolver relações de recorrência visualizando como o custo das chamadas recursivas se acumula nos níveis de recursão."
+  }
+  

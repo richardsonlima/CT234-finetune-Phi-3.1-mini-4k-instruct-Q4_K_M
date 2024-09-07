@@ -1,0 +1,25 @@
+{
+    "prompt": "What is tail recursion?",
+    "completion": "Tail recursion is a special form of recursion where the recursive call is the last operation in the function, allowing for optimizations that reduce stack usage."
+  }
+  {
+    "prompt": "O que é recursão de cauda?",
+    "completion": "A recursão de cauda é uma forma especial de recursão onde a chamada recursiva é a última operação na função, permitindo otimizações que reduzem o uso de pilha."
+  }
+  {
+    "prompt": "What is dynamic memory allocation?",
+    "completion": "Dynamic memory allocation is the process of allocating memory at runtime, often used in recursion when the number of function calls cannot be determined at compile time."
+  }
+  {
+    "prompt": "O que é alocação dinâmica de memória?",
+    "completion": "A alocação dinâmica de memória é o processo de alocação de memória em tempo de execução, frequentemente usada em recursão quando o número de chamadas de função não pode ser determinado em tempo de compilação."
+  }
+  {
+    "prompt": "How can recursion be converted to iteration?",
+    "completion": "Recursion can be converted to iteration by using an explicit stack to manage the state that would otherwise be handled by recursive function calls."
+  }
+  {
+    "prompt": "Como a recursão pode ser convertida em iteração?",
+    "completion": "A recursão pode ser convertida em iteração usando uma pilha explícita para gerenciar o estado que seria manipulado pelas chamadas de função recursiva."
+  }
+  
